@@ -1,0 +1,118 @@
+.tiptap-content {
+  #bold {
+    font-weight: 900;
+  }
+
+  #italic {
+    font-style: italic;
+  }
+
+  #strike {
+    text-decoration: line-through;
+  }
+
+  > * + * {
+    margin-top: 0.75em;
+  }
+  ul {
+    list-style-type: disc !important;
+    margin-block-start: 1em !important;
+    margin-block-end: 1em !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    padding-inline-start: 40px !important;
+  }
+  h1 {
+    font-size: 2rem !important;
+    font-weight: bold !important;
+  }
+  h2 {
+    font-size: 1.5rem !important;
+    font-weight: bold !important;
+  }
+  h3 {
+    font-size: 1.17rem !important;
+  }
+  h4 {
+    font-weight: bold !important;
+  }
+  h5 {
+    font-size: 0.83em !important;
+    font-weight: bold !important;
+  }
+  h6 {
+    font-size: 0.67rem !important;
+    font-weight: initial !important;
+  }
+  blockquote {
+    padding-left: 1rem;
+    border-left: 2px solid rgba(#0d0d0d, 0.1);
+  }
+
+  pre {
+    background: #0d0d0d;
+    color: #fff;
+    font-family: 'JetBrainsMono', monospace;
+    padding: 0.75rem 1rem;
+    border-radius: 0.5rem;
+
+    code {
+      color: inherit;
+      padding: 0;
+      background: none;
+      font-size: 0.8rem;
+    }
+
+    .hljs-comment,
+    .hljs-quote {
+      color: #616161;
+    }
+
+    .hljs-variable,
+    .hljs-template-variable,
+    .hljs-attribute,
+    .hljs-tag,
+    .hljs-name,
+    .hljs-regexp,
+    .hljs-link,
+    .hljs-name,
+    .hljs-selector-id,
+    .hljs-selector-class {
+      color: #f98181;
+    }
+
+    .hljs-number,
+    .hljs-meta,
+    .hljs-built_in,
+    .hljs-builtin-name,
+    .hljs-literal,
+    .hljs-type,
+    .hljs-params {
+      color: #fbbc88;
+    }
+
+    .hljs-string,
+    .hljs-symbol,
+    .hljs-bullet {
+      color: #b9f18d;
+    }
+
+    .hljs-title,
+    .hljs-section {
+      color: #faf594;
+    }
+
+    .hljs-keyword,
+    .hljs-selector-tag {
+      color: #70cff8;
+    }
+
+    .hljs-emphasis {
+      font-style: italic;
+    }
+
+    .hljs-strong {
+      font-weight: 700;
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  // https://nuxt.com/docs/guide/concepts/typescript
+  "extends": "./.nuxt/tsconfig.json",
+  // "compilerOptions": {
+  //   "types": ["@intlify/vite-plugin-vue-i18n/client"]
+  // },
+  "compilerOptions": {
+    "baseUrl": "src/",
+    "strict": true,
+    "skipLibCheck": true,
+    "ignoreDeprecations": "5.0",
+    "moduleResolution": "node",
+    "suppressImplicitAnyIndexErrors": true,
+    "types": [
+      "unplugin-icons/types/vue3",
+      "@pinia/nuxt",
+      "@nuxtjs/i18n",
+      "@vueuse/nuxt",
+    ]
+  },
+  "include": [
+    "src/",
+    "types",
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.vue",
+    ".nuxt/nuxt.d.ts",
+    "router.options.ts",
+    "router.options.ts",
+    "src/assets/chartData.js"
+  ]
+}

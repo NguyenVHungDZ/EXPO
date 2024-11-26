@@ -1,0 +1,1568 @@
+{
+    "AC": {
+        "name": "Ascension Island",
+        "emoji": "🇦🇨",
+        "unicode": "U+1F1E6 U+1F1E8",
+        "image": "/images/countries/AC.svg"
+    },
+    "AD": {
+        "name": "Andorra",
+        "emoji": "🇦🇩",
+        "unicode": "U+1F1E6 U+1F1E9",
+        "image": "/images/countries/AD.svg"
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "emoji": "🇦🇪",
+        "unicode": "U+1F1E6 U+1F1EA",
+        "image": "/images/countries/AE.svg"
+    },
+    "AF": {
+        "name": "Afghanistan",
+        "emoji": "🇦🇫",
+        "unicode": "U+1F1E6 U+1F1EB",
+        "image": "/images/countries/AF.svg"
+    },
+    "AG": {
+        "name": "Antigua & Barbuda",
+        "emoji": "🇦🇬",
+        "unicode": "U+1F1E6 U+1F1EC",
+        "image": "/images/countries/AG.svg"
+    },
+    "AI": {
+        "name": "Anguilla",
+        "emoji": "🇦🇮",
+        "unicode": "U+1F1E6 U+1F1EE",
+        "image": "/images/countries/AI.svg"
+    },
+    "AL": {
+        "name": "Albania",
+        "emoji": "🇦🇱",
+        "unicode": "U+1F1E6 U+1F1F1",
+        "image": "/images/countries/AL.svg"
+    },
+    "AM": {
+        "name": "Armenia",
+        "emoji": "🇦🇲",
+        "unicode": "U+1F1E6 U+1F1F2",
+        "image": "/images/countries/AM.svg"
+    },
+    "AO": {
+        "name": "Angola",
+        "emoji": "🇦🇴",
+        "unicode": "U+1F1E6 U+1F1F4",
+        "image": "/images/countries/AO.svg"
+    },
+    "AQ": {
+        "name": "Antarctica",
+        "emoji": "🇦🇶",
+        "unicode": "U+1F1E6 U+1F1F6",
+        "image": "/images/countries/AQ.svg"
+    },
+    "AR": {
+        "name": "Argentina",
+        "emoji": "🇦🇷",
+        "unicode": "U+1F1E6 U+1F1F7",
+        "image": "/images/countries/AR.svg"
+    },
+    "AS": {
+        "name": "American Samoa",
+        "emoji": "🇦🇸",
+        "unicode": "U+1F1E6 U+1F1F8",
+        "image": "/images/countries/AS.svg"
+    },
+    "AT": {
+        "name": "Austria",
+        "emoji": "🇦🇹",
+        "unicode": "U+1F1E6 U+1F1F9",
+        "image": "/images/countries/AT.svg"
+    },
+    "AU": {
+        "name": "Australia",
+        "emoji": "🇦🇺",
+        "unicode": "U+1F1E6 U+1F1FA",
+        "image": "/images/countries/AU.svg"
+    },
+    "AW": {
+        "name": "Aruba",
+        "emoji": "🇦🇼",
+        "unicode": "U+1F1E6 U+1F1FC",
+        "image": "/images/countries/AW.svg"
+    },
+    "AX": {
+        "name": "Åland Islands",
+        "emoji": "🇦🇽",
+        "unicode": "U+1F1E6 U+1F1FD",
+        "image": "/images/countries/AX.svg"
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "emoji": "🇦🇿",
+        "unicode": "U+1F1E6 U+1F1FF",
+        "image": "/images/countries/AZ.svg"
+    },
+    "BA": {
+        "name": "Bosnia & Herzegovina",
+        "emoji": "🇧🇦",
+        "unicode": "U+1F1E7 U+1F1E6",
+        "image": "/images/countries/BA.svg"
+    },
+    "BB": {
+        "name": "Barbados",
+        "emoji": "🇧🇧",
+        "unicode": "U+1F1E7 U+1F1E7",
+        "image": "/images/countries/BB.svg"
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "emoji": "🇧🇩",
+        "unicode": "U+1F1E7 U+1F1E9",
+        "image": "/images/countries/BD.svg"
+    },
+    "BE": {
+        "name": "Belgium",
+        "emoji": "🇧🇪",
+        "unicode": "U+1F1E7 U+1F1EA",
+        "image": "/images/countries/BE.svg"
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "emoji": "🇧🇫",
+        "unicode": "U+1F1E7 U+1F1EB",
+        "image": "/images/countries/BF.svg"
+    },
+    "BG": {
+        "name": "Bulgaria",
+        "emoji": "🇧🇬",
+        "unicode": "U+1F1E7 U+1F1EC",
+        "image": "/images/countries/BG.svg"
+    },
+    "BH": {
+        "name": "Bahrain",
+        "emoji": "🇧🇭",
+        "unicode": "U+1F1E7 U+1F1ED",
+        "image": "/images/countries/BH.svg"
+    },
+    "BI": {
+        "name": "Burundi",
+        "emoji": "🇧🇮",
+        "unicode": "U+1F1E7 U+1F1EE",
+        "image": "/images/countries/BI.svg"
+    },
+    "BJ": {
+        "name": "Benin",
+        "emoji": "🇧🇯",
+        "unicode": "U+1F1E7 U+1F1EF",
+        "image": "/images/countries/BJ.svg"
+    },
+    "BL": {
+        "name": "St. Barthélemy",
+        "emoji": "🇧🇱",
+        "unicode": "U+1F1E7 U+1F1F1",
+        "image": "/images/countries/BL.svg"
+    },
+    "BM": {
+        "name": "Bermuda",
+        "emoji": "🇧🇲",
+        "unicode": "U+1F1E7 U+1F1F2",
+        "image": "/images/countries/BM.svg"
+    },
+    "BN": {
+        "name": "Brunei",
+        "emoji": "🇧🇳",
+        "unicode": "U+1F1E7 U+1F1F3",
+        "image": "/images/countries/BN.svg"
+    },
+    "BO": {
+        "name": "Bolivia",
+        "emoji": "🇧🇴",
+        "unicode": "U+1F1E7 U+1F1F4",
+        "image": "/images/countries/BO.svg"
+    },
+    "BQ": {
+        "name": "Caribbean Netherlands",
+        "emoji": "🇧🇶",
+        "unicode": "U+1F1E7 U+1F1F6",
+        "image": "/images/countries/BQ.svg"
+    },
+    "BR": {
+        "name": "Brazil",
+        "emoji": "🇧🇷",
+        "unicode": "U+1F1E7 U+1F1F7",
+        "image": "/images/countries/BR.svg"
+    },
+    "BS": {
+        "name": "Bahamas",
+        "emoji": "🇧🇸",
+        "unicode": "U+1F1E7 U+1F1F8",
+        "image": "/images/countries/BS.svg"
+    },
+    "BT": {
+        "name": "Bhutan",
+        "emoji": "🇧🇹",
+        "unicode": "U+1F1E7 U+1F1F9",
+        "image": "/images/countries/BT.svg"
+    },
+    "BV": {
+        "name": "Bouvet Island",
+        "emoji": "🇧🇻",
+        "unicode": "U+1F1E7 U+1F1FB",
+        "image": "/images/countries/BV.svg"
+    },
+    "BW": {
+        "name": "Botswana",
+        "emoji": "🇧🇼",
+        "unicode": "U+1F1E7 U+1F1FC",
+        "image": "/images/countries/BW.svg"
+    },
+    "BY": {
+        "name": "Belarus",
+        "emoji": "🇧🇾",
+        "unicode": "U+1F1E7 U+1F1FE",
+        "image": "/images/countries/BY.svg"
+    },
+    "BZ": {
+        "name": "Belize",
+        "emoji": "🇧🇿",
+        "unicode": "U+1F1E7 U+1F1FF",
+        "image": "/images/countries/BZ.svg"
+    },
+    "CA": {
+        "name": "Canada",
+        "emoji": "🇨🇦",
+        "unicode": "U+1F1E8 U+1F1E6",
+        "image": "/images/countries/CA.svg"
+    },
+    "CC": {
+        "name": "Cocos (Keeling) Islands",
+        "emoji": "🇨🇨",
+        "unicode": "U+1F1E8 U+1F1E8",
+        "image": "/images/countries/CC.svg"
+    },
+    "CD": {
+        "name": "Congo - Kinshasa",
+        "emoji": "🇨🇩",
+        "unicode": "U+1F1E8 U+1F1E9",
+        "image": "/images/countries/CD.svg"
+    },
+    "CF": {
+        "name": "Central African Republic",
+        "emoji": "🇨🇫",
+        "unicode": "U+1F1E8 U+1F1EB",
+        "image": "/images/countries/CF.svg"
+    },
+    "CG": {
+        "name": "Congo - Brazzaville",
+        "emoji": "🇨🇬",
+        "unicode": "U+1F1E8 U+1F1EC",
+        "image": "/images/countries/CG.svg"
+    },
+    "CH": {
+        "name": "Switzerland",
+        "emoji": "🇨🇭",
+        "unicode": "U+1F1E8 U+1F1ED",
+        "image": "/images/countries/CH.svg"
+    },
+    "CI": {
+        "name": "Côte d’Ivoire",
+        "emoji": "🇨🇮",
+        "unicode": "U+1F1E8 U+1F1EE",
+        "image": "/images/countries/CI.svg"
+    },
+    "CK": {
+        "name": "Cook Islands",
+        "emoji": "🇨🇰",
+        "unicode": "U+1F1E8 U+1F1F0",
+        "image": "/images/countries/CK.svg"
+    },
+    "CL": {
+        "name": "Chile",
+        "emoji": "🇨🇱",
+        "unicode": "U+1F1E8 U+1F1F1",
+        "image": "/images/countries/CL.svg"
+    },
+    "CM": {
+        "name": "Cameroon",
+        "emoji": "🇨🇲",
+        "unicode": "U+1F1E8 U+1F1F2",
+        "image": "/images/countries/CM.svg"
+    },
+    "CN": {
+        "name": "China",
+        "emoji": "🇨🇳",
+        "unicode": "U+1F1E8 U+1F1F3",
+        "image": "/images/countries/CN.svg"
+    },
+    "CO": {
+        "name": "Colombia",
+        "emoji": "🇨🇴",
+        "unicode": "U+1F1E8 U+1F1F4",
+        "image": "/images/countries/CO.svg"
+    },
+    "CP": {
+        "name": "Clipperton Island",
+        "emoji": "🇨🇵",
+        "unicode": "U+1F1E8 U+1F1F5",
+        "image": "/images/countries/CP.svg"
+    },
+    "CR": {
+        "name": "Costa Rica",
+        "emoji": "🇨🇷",
+        "unicode": "U+1F1E8 U+1F1F7",
+        "image": "/images/countries/CR.svg"
+    },
+    "CU": {
+        "name": "Cuba",
+        "emoji": "🇨🇺",
+        "unicode": "U+1F1E8 U+1F1FA",
+        "image": "/images/countries/CU.svg"
+    },
+    "CV": {
+        "name": "Cape Verde",
+        "emoji": "🇨🇻",
+        "unicode": "U+1F1E8 U+1F1FB",
+        "image": "/images/countries/CV.svg"
+    },
+    "CW": {
+        "name": "Curaçao",
+        "emoji": "🇨🇼",
+        "unicode": "U+1F1E8 U+1F1FC",
+        "image": "/images/countries/CW.svg"
+    },
+    "CX": {
+        "name": "Christmas Island",
+        "emoji": "🇨🇽",
+        "unicode": "U+1F1E8 U+1F1FD",
+        "image": "/images/countries/CX.svg"
+    },
+    "CY": {
+        "name": "Cyprus",
+        "emoji": "🇨🇾",
+        "unicode": "U+1F1E8 U+1F1FE",
+        "image": "/images/countries/CY.svg"
+    },
+    "CZ": {
+        "name": "Czechia",
+        "emoji": "🇨🇿",
+        "unicode": "U+1F1E8 U+1F1FF",
+        "image": "/images/countries/CZ.svg"
+    },
+    "DE": {
+        "name": "Germany",
+        "emoji": "🇩🇪",
+        "unicode": "U+1F1E9 U+1F1EA",
+        "image": "/images/countries/DE.svg"
+    },
+    "DG": {
+        "name": "Diego Garcia",
+        "emoji": "🇩🇬",
+        "unicode": "U+1F1E9 U+1F1EC",
+        "image": "/images/countries/DG.svg"
+    },
+    "DJ": {
+        "name": "Djibouti",
+        "emoji": "🇩🇯",
+        "unicode": "U+1F1E9 U+1F1EF",
+        "image": "/images/countries/DJ.svg"
+    },
+    "DK": {
+        "name": "Denmark",
+        "emoji": "🇩🇰",
+        "unicode": "U+1F1E9 U+1F1F0",
+        "image": "/images/countries/DK.svg"
+    },
+    "DM": {
+        "name": "Dominica",
+        "emoji": "🇩🇲",
+        "unicode": "U+1F1E9 U+1F1F2",
+        "image": "/images/countries/DM.svg"
+    },
+    "DO": {
+        "name": "Dominican Republic",
+        "emoji": "🇩🇴",
+        "unicode": "U+1F1E9 U+1F1F4",
+        "image": "/images/countries/DO.svg"
+    },
+    "DZ": {
+        "name": "Algeria",
+        "emoji": "🇩🇿",
+        "unicode": "U+1F1E9 U+1F1FF",
+        "image": "/images/countries/DZ.svg"
+    },
+    "EA": {
+        "name": "Ceuta & Melilla",
+        "emoji": "🇪🇦",
+        "unicode": "U+1F1EA U+1F1E6",
+        "image": "/images/countries/EA.svg"
+    },
+    "EC": {
+        "name": "Ecuador",
+        "emoji": "🇪🇨",
+        "unicode": "U+1F1EA U+1F1E8",
+        "image": "/images/countries/EC.svg"
+    },
+    "EE": {
+        "name": "Estonia",
+        "emoji": "🇪🇪",
+        "unicode": "U+1F1EA U+1F1EA",
+        "image": "/images/countries/EE.svg"
+    },
+    "EG": {
+        "name": "Egypt",
+        "emoji": "🇪🇬",
+        "unicode": "U+1F1EA U+1F1EC",
+        "image": "/images/countries/EG.svg"
+    },
+    "EH": {
+        "name": "Western Sahara",
+        "emoji": "🇪🇭",
+        "unicode": "U+1F1EA U+1F1ED",
+        "image": "/images/countries/EH.svg"
+    },
+    "ER": {
+        "name": "Eritrea",
+        "emoji": "🇪🇷",
+        "unicode": "U+1F1EA U+1F1F7",
+        "image": "/images/countries/ER.svg"
+    },
+    "ES": {
+        "name": "Spain",
+        "emoji": "🇪🇸",
+        "unicode": "U+1F1EA U+1F1F8",
+        "image": "/images/countries/ES.svg"
+    },
+    "ET": {
+        "name": "Ethiopia",
+        "emoji": "🇪🇹",
+        "unicode": "U+1F1EA U+1F1F9",
+        "image": "/images/countries/ET.svg"
+    },
+    "EU": {
+        "name": "European Union",
+        "emoji": "🇪🇺",
+        "unicode": "U+1F1EA U+1F1FA",
+        "image": "/images/countries/EU.svg"
+    },
+    "FI": {
+        "name": "Finland",
+        "emoji": "🇫🇮",
+        "unicode": "U+1F1EB U+1F1EE",
+        "image": "/images/countries/FI.svg"
+    },
+    "FJ": {
+        "name": "Fiji",
+        "emoji": "🇫🇯",
+        "unicode": "U+1F1EB U+1F1EF",
+        "image": "/images/countries/FJ.svg"
+    },
+    "FK": {
+        "name": "Falkland Islands",
+        "emoji": "🇫🇰",
+        "unicode": "U+1F1EB U+1F1F0",
+        "image": "/images/countries/FK.svg"
+    },
+    "FM": {
+        "name": "Micronesia",
+        "emoji": "🇫🇲",
+        "unicode": "U+1F1EB U+1F1F2",
+        "image": "/images/countries/FM.svg"
+    },
+    "FO": {
+        "name": "Faroe Islands",
+        "emoji": "🇫🇴",
+        "unicode": "U+1F1EB U+1F1F4",
+        "image": "/images/countries/FO.svg"
+    },
+    "FR": {
+        "name": "France",
+        "emoji": "🇫🇷",
+        "unicode": "U+1F1EB U+1F1F7",
+        "image": "/images/countries/FR.svg"
+    },
+    "GA": {
+        "name": "Gabon",
+        "emoji": "🇬🇦",
+        "unicode": "U+1F1EC U+1F1E6",
+        "image": "/images/countries/GA.svg"
+    },
+    "GB": {
+        "name": "United Kingdom",
+        "emoji": "🇬🇧",
+        "unicode": "U+1F1EC U+1F1E7",
+        "image": "/images/countries/GB.svg"
+    },
+    "GD": {
+        "name": "Grenada",
+        "emoji": "🇬🇩",
+        "unicode": "U+1F1EC U+1F1E9",
+        "image": "/images/countries/GD.svg"
+    },
+    "GE": {
+        "name": "Georgia",
+        "emoji": "🇬🇪",
+        "unicode": "U+1F1EC U+1F1EA",
+        "image": "/images/countries/GE.svg"
+    },
+    "GF": {
+        "name": "French Guiana",
+        "emoji": "🇬🇫",
+        "unicode": "U+1F1EC U+1F1EB",
+        "image": "/images/countries/GF.svg"
+    },
+    "GG": {
+        "name": "Guernsey",
+        "emoji": "🇬🇬",
+        "unicode": "U+1F1EC U+1F1EC",
+        "image": "/images/countries/GG.svg"
+    },
+    "GH": {
+        "name": "Ghana",
+        "emoji": "🇬🇭",
+        "unicode": "U+1F1EC U+1F1ED",
+        "image": "/images/countries/GH.svg"
+    },
+    "GI": {
+        "name": "Gibraltar",
+        "emoji": "🇬🇮",
+        "unicode": "U+1F1EC U+1F1EE",
+        "image": "/images/countries/GI.svg"
+    },
+    "GL": {
+        "name": "Greenland",
+        "emoji": "🇬🇱",
+        "unicode": "U+1F1EC U+1F1F1",
+        "image": "/images/countries/GL.svg"
+    },
+    "GM": {
+        "name": "Gambia",
+        "emoji": "🇬🇲",
+        "unicode": "U+1F1EC U+1F1F2",
+        "image": "/images/countries/GM.svg"
+    },
+    "GN": {
+        "name": "Guinea",
+        "emoji": "🇬🇳",
+        "unicode": "U+1F1EC U+1F1F3",
+        "image": "/images/countries/GN.svg"
+    },
+    "GP": {
+        "name": "Guadeloupe",
+        "emoji": "🇬🇵",
+        "unicode": "U+1F1EC U+1F1F5",
+        "image": "/images/countries/GP.svg"
+    },
+    "GQ": {
+        "name": "Equatorial Guinea",
+        "emoji": "🇬🇶",
+        "unicode": "U+1F1EC U+1F1F6",
+        "image": "/images/countries/GQ.svg"
+    },
+    "GR": {
+        "name": "Greece",
+        "emoji": "🇬🇷",
+        "unicode": "U+1F1EC U+1F1F7",
+        "image": "/images/countries/GR.svg"
+    },
+    "GS": {
+        "name": "South Georgia & South Sandwich Islands",
+        "emoji": "🇬🇸",
+        "unicode": "U+1F1EC U+1F1F8",
+        "image": "/images/countries/GS.svg"
+    },
+    "GT": {
+        "name": "Guatemala",
+        "emoji": "🇬🇹",
+        "unicode": "U+1F1EC U+1F1F9",
+        "image": "/images/countries/GT.svg"
+    },
+    "GU": {
+        "name": "Guam",
+        "emoji": "🇬🇺",
+        "unicode": "U+1F1EC U+1F1FA",
+        "image": "/images/countries/GU.svg"
+    },
+    "GW": {
+        "name": "Guinea-Bissau",
+        "emoji": "🇬🇼",
+        "unicode": "U+1F1EC U+1F1FC",
+        "image": "/images/countries/GW.svg"
+    },
+    "GY": {
+        "name": "Guyana",
+        "emoji": "🇬🇾",
+        "unicode": "U+1F1EC U+1F1FE",
+        "image": "/images/countries/GY.svg"
+    },
+    "HK": {
+        "name": "Hong Kong SAR China",
+        "emoji": "🇭🇰",
+        "unicode": "U+1F1ED U+1F1F0",
+        "image": "/images/countries/HK.svg"
+    },
+    "HM": {
+        "name": "Heard & McDonald Islands",
+        "emoji": "🇭🇲",
+        "unicode": "U+1F1ED U+1F1F2",
+        "image": "/images/countries/HM.svg"
+    },
+    "HN": {
+        "name": "Honduras",
+        "emoji": "🇭🇳",
+        "unicode": "U+1F1ED U+1F1F3",
+        "image": "/images/countries/HN.svg"
+    },
+    "HR": {
+        "name": "Croatia",
+        "emoji": "🇭🇷",
+        "unicode": "U+1F1ED U+1F1F7",
+        "image": "/images/countries/HR.svg"
+    },
+    "HT": {
+        "name": "Haiti",
+        "emoji": "🇭🇹",
+        "unicode": "U+1F1ED U+1F1F9",
+        "image": "/images/countries/HT.svg"
+    },
+    "HU": {
+        "name": "Hungary",
+        "emoji": "🇭🇺",
+        "unicode": "U+1F1ED U+1F1FA",
+        "image": "/images/countries/HU.svg"
+    },
+    "IC": {
+        "name": "Canary Islands",
+        "emoji": "🇮🇨",
+        "unicode": "U+1F1EE U+1F1E8",
+        "image": "/images/countries/IC.svg"
+    },
+    "ID": {
+        "name": "Indonesia",
+        "emoji": "🇮🇩",
+        "unicode": "U+1F1EE U+1F1E9",
+        "image": "/images/countries/ID.svg"
+    },
+    "IE": {
+        "name": "Ireland",
+        "emoji": "🇮🇪",
+        "unicode": "U+1F1EE U+1F1EA",
+        "image": "/images/countries/IE.svg"
+    },
+    "IL": {
+        "name": "Israel",
+        "emoji": "🇮🇱",
+        "unicode": "U+1F1EE U+1F1F1",
+        "image": "/images/countries/IL.svg"
+    },
+    "IM": {
+        "name": "Isle of Man",
+        "emoji": "🇮🇲",
+        "unicode": "U+1F1EE U+1F1F2",
+        "image": "/images/countries/IM.svg"
+    },
+    "IN": {
+        "name": "India",
+        "emoji": "🇮🇳",
+        "unicode": "U+1F1EE U+1F1F3",
+        "image": "/images/countries/IN.svg"
+    },
+    "IO": {
+        "name": "British Indian Ocean Territory",
+        "emoji": "🇮🇴",
+        "unicode": "U+1F1EE U+1F1F4",
+        "image": "/images/countries/IO.svg"
+    },
+    "IQ": {
+        "name": "Iraq",
+        "emoji": "🇮🇶",
+        "unicode": "U+1F1EE U+1F1F6",
+        "image": "/images/countries/IQ.svg"
+    },
+    "IR": {
+        "name": "Iran",
+        "emoji": "🇮🇷",
+        "unicode": "U+1F1EE U+1F1F7",
+        "image": "/images/countries/IR.svg"
+    },
+    "IS": {
+        "name": "Iceland",
+        "emoji": "🇮🇸",
+        "unicode": "U+1F1EE U+1F1F8",
+        "image": "/images/countries/IS.svg"
+    },
+    "IT": {
+        "name": "Italy",
+        "emoji": "🇮🇹",
+        "unicode": "U+1F1EE U+1F1F9",
+        "image": "/images/countries/IT.svg"
+    },
+    "JE": {
+        "name": "Jersey",
+        "emoji": "🇯🇪",
+        "unicode": "U+1F1EF U+1F1EA",
+        "image": "/images/countries/JE.svg"
+    },
+    "JM": {
+        "name": "Jamaica",
+        "emoji": "🇯🇲",
+        "unicode": "U+1F1EF U+1F1F2",
+        "image": "/images/countries/JM.svg"
+    },
+    "JO": {
+        "name": "Jordan",
+        "emoji": "🇯🇴",
+        "unicode": "U+1F1EF U+1F1F4",
+        "image": "/images/countries/JO.svg"
+    },
+    "JP": {
+        "name": "Japan",
+        "emoji": "🇯🇵",
+        "unicode": "U+1F1EF U+1F1F5",
+        "image": "/images/countries/JP.svg"
+    },
+    "KE": {
+        "name": "Kenya",
+        "emoji": "🇰🇪",
+        "unicode": "U+1F1F0 U+1F1EA",
+        "image": "/images/countries/KE.svg"
+    },
+    "KG": {
+        "name": "Kyrgyzstan",
+        "emoji": "🇰🇬",
+        "unicode": "U+1F1F0 U+1F1EC",
+        "image": "/images/countries/KG.svg"
+    },
+    "KH": {
+        "name": "Cambodia",
+        "emoji": "🇰🇭",
+        "unicode": "U+1F1F0 U+1F1ED",
+        "image": "/images/countries/KH.svg"
+    },
+    "KI": {
+        "name": "Kiribati",
+        "emoji": "🇰🇮",
+        "unicode": "U+1F1F0 U+1F1EE",
+        "image": "/images/countries/KI.svg"
+    },
+    "KM": {
+        "name": "Comoros",
+        "emoji": "🇰🇲",
+        "unicode": "U+1F1F0 U+1F1F2",
+        "image": "/images/countries/KM.svg"
+    },
+    "KN": {
+        "name": "St. Kitts & Nevis",
+        "emoji": "🇰🇳",
+        "unicode": "U+1F1F0 U+1F1F3",
+        "image": "/images/countries/KN.svg"
+    },
+    "KP": {
+        "name": "North Korea",
+        "emoji": "🇰🇵",
+        "unicode": "U+1F1F0 U+1F1F5",
+        "image": "/images/countries/KP.svg"
+    },
+    "KR": {
+        "name": "South Korea",
+        "emoji": "🇰🇷",
+        "unicode": "U+1F1F0 U+1F1F7",
+        "image": "/images/countries/KR.svg"
+    },
+    "KW": {
+        "name": "Kuwait",
+        "emoji": "🇰🇼",
+        "unicode": "U+1F1F0 U+1F1FC",
+        "image": "/images/countries/KW.svg"
+    },
+    "KY": {
+        "name": "Cayman Islands",
+        "emoji": "🇰🇾",
+        "unicode": "U+1F1F0 U+1F1FE",
+        "image": "/images/countries/KY.svg"
+    },
+    "KZ": {
+        "name": "Kazakhstan",
+        "emoji": "🇰🇿",
+        "unicode": "U+1F1F0 U+1F1FF",
+        "image": "/images/countries/KZ.svg"
+    },
+    "LA": {
+        "name": "Laos",
+        "emoji": "🇱🇦",
+        "unicode": "U+1F1F1 U+1F1E6",
+        "image": "/images/countries/LA.svg"
+    },
+    "LB": {
+        "name": "Lebanon",
+        "emoji": "🇱🇧",
+        "unicode": "U+1F1F1 U+1F1E7",
+        "image": "/images/countries/LB.svg"
+    },
+    "LC": {
+        "name": "St. Lucia",
+        "emoji": "🇱🇨",
+        "unicode": "U+1F1F1 U+1F1E8",
+        "image": "/images/countries/LC.svg"
+    },
+    "LI": {
+        "name": "Liechtenstein",
+        "emoji": "🇱🇮",
+        "unicode": "U+1F1F1 U+1F1EE",
+        "image": "/images/countries/LI.svg"
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "emoji": "🇱🇰",
+        "unicode": "U+1F1F1 U+1F1F0",
+        "image": "/images/countries/LK.svg"
+    },
+    "LR": {
+        "name": "Liberia",
+        "emoji": "🇱🇷",
+        "unicode": "U+1F1F1 U+1F1F7",
+        "image": "/images/countries/LR.svg"
+    },
+    "LS": {
+        "name": "Lesotho",
+        "emoji": "🇱🇸",
+        "unicode": "U+1F1F1 U+1F1F8",
+        "image": "/images/countries/LS.svg"
+    },
+    "LT": {
+        "name": "Lithuania",
+        "emoji": "🇱🇹",
+        "unicode": "U+1F1F1 U+1F1F9",
+        "image": "/images/countries/LT.svg"
+    },
+    "LU": {
+        "name": "Luxembourg",
+        "emoji": "🇱🇺",
+        "unicode": "U+1F1F1 U+1F1FA",
+        "image": "/images/countries/LU.svg"
+    },
+    "LV": {
+        "name": "Latvia",
+        "emoji": "🇱🇻",
+        "unicode": "U+1F1F1 U+1F1FB",
+        "image": "/images/countries/LV.svg"
+    },
+    "LY": {
+        "name": "Libya",
+        "emoji": "🇱🇾",
+        "unicode": "U+1F1F1 U+1F1FE",
+        "image": "/images/countries/LY.svg"
+    },
+    "MA": {
+        "name": "Morocco",
+        "emoji": "🇲🇦",
+        "unicode": "U+1F1F2 U+1F1E6",
+        "image": "/images/countries/MA.svg"
+    },
+    "MC": {
+        "name": "Monaco",
+        "emoji": "🇲🇨",
+        "unicode": "U+1F1F2 U+1F1E8",
+        "image": "/images/countries/MC.svg"
+    },
+    "MD": {
+        "name": "Moldova",
+        "emoji": "🇲🇩",
+        "unicode": "U+1F1F2 U+1F1E9",
+        "image": "/images/countries/MD.svg"
+    },
+    "ME": {
+        "name": "Montenegro",
+        "emoji": "🇲🇪",
+        "unicode": "U+1F1F2 U+1F1EA",
+        "image": "/images/countries/ME.svg"
+    },
+    "MF": {
+        "name": "St. Martin",
+        "emoji": "🇲🇫",
+        "unicode": "U+1F1F2 U+1F1EB",
+        "image": "/images/countries/MF.svg"
+    },
+    "MG": {
+        "name": "Madagascar",
+        "emoji": "🇲🇬",
+        "unicode": "U+1F1F2 U+1F1EC",
+        "image": "/images/countries/MG.svg"
+    },
+    "MH": {
+        "name": "Marshall Islands",
+        "emoji": "🇲🇭",
+        "unicode": "U+1F1F2 U+1F1ED",
+        "image": "/images/countries/MH.svg"
+    },
+    "MK": {
+        "name": "North Macedonia",
+        "emoji": "🇲🇰",
+        "unicode": "U+1F1F2 U+1F1F0",
+        "image": "/images/countries/MK.svg"
+    },
+    "ML": {
+        "name": "Mali",
+        "emoji": "🇲🇱",
+        "unicode": "U+1F1F2 U+1F1F1",
+        "image": "/images/countries/ML.svg"
+    },
+    "MM": {
+        "name": "Myanmar (Burma)",
+        "emoji": "🇲🇲",
+        "unicode": "U+1F1F2 U+1F1F2",
+        "image": "/images/countries/MM.svg"
+    },
+    "MN": {
+        "name": "Mongolia",
+        "emoji": "🇲🇳",
+        "unicode": "U+1F1F2 U+1F1F3",
+        "image": "/images/countries/MN.svg"
+    },
+    "MO": {
+        "name": "Macao SAR China",
+        "emoji": "🇲🇴",
+        "unicode": "U+1F1F2 U+1F1F4",
+        "image": "/images/countries/MO.svg"
+    },
+    "MP": {
+        "name": "Northern Mariana Islands",
+        "emoji": "🇲🇵",
+        "unicode": "U+1F1F2 U+1F1F5",
+        "image": "/images/countries/MP.svg"
+    },
+    "MQ": {
+        "name": "Martinique",
+        "emoji": "🇲🇶",
+        "unicode": "U+1F1F2 U+1F1F6",
+        "image": "/images/countries/MQ.svg"
+    },
+    "MR": {
+        "name": "Mauritania",
+        "emoji": "🇲🇷",
+        "unicode": "U+1F1F2 U+1F1F7",
+        "image": "/images/countries/MR.svg"
+    },
+    "MS": {
+        "name": "Montserrat",
+        "emoji": "🇲🇸",
+        "unicode": "U+1F1F2 U+1F1F8",
+        "image": "/images/countries/MS.svg"
+    },
+    "MT": {
+        "name": "Malta",
+        "emoji": "🇲🇹",
+        "unicode": "U+1F1F2 U+1F1F9",
+        "image": "/images/countries/MT.svg"
+    },
+    "MU": {
+        "name": "Mauritius",
+        "emoji": "🇲🇺",
+        "unicode": "U+1F1F2 U+1F1FA",
+        "image": "/images/countries/MU.svg"
+    },
+    "MV": {
+        "name": "Maldives",
+        "emoji": "🇲🇻",
+        "unicode": "U+1F1F2 U+1F1FB",
+        "image": "/images/countries/MV.svg"
+    },
+    "MW": {
+        "name": "Malawi",
+        "emoji": "🇲🇼",
+        "unicode": "U+1F1F2 U+1F1FC",
+        "image": "/images/countries/MW.svg"
+    },
+    "MX": {
+        "name": "Mexico",
+        "emoji": "🇲🇽",
+        "unicode": "U+1F1F2 U+1F1FD",
+        "image": "/images/countries/MX.svg"
+    },
+    "MY": {
+        "name": "Malaysia",
+        "emoji": "🇲🇾",
+        "unicode": "U+1F1F2 U+1F1FE",
+        "image": "/images/countries/MY.svg"
+    },
+    "MZ": {
+        "name": "Mozambique",
+        "emoji": "🇲🇿",
+        "unicode": "U+1F1F2 U+1F1FF",
+        "image": "/images/countries/MZ.svg"
+    },
+    "NA": {
+        "name": "Namibia",
+        "emoji": "🇳🇦",
+        "unicode": "U+1F1F3 U+1F1E6",
+        "image": "/images/countries/NA.svg"
+    },
+    "NC": {
+        "name": "New Caledonia",
+        "emoji": "🇳🇨",
+        "unicode": "U+1F1F3 U+1F1E8",
+        "image": "/images/countries/NC.svg"
+    },
+    "NE": {
+        "name": "Niger",
+        "emoji": "🇳🇪",
+        "unicode": "U+1F1F3 U+1F1EA",
+        "image": "/images/countries/NE.svg"
+    },
+    "NF": {
+        "name": "Norfolk Island",
+        "emoji": "🇳🇫",
+        "unicode": "U+1F1F3 U+1F1EB",
+        "image": "/images/countries/NF.svg"
+    },
+    "NG": {
+        "name": "Nigeria",
+        "emoji": "🇳🇬",
+        "unicode": "U+1F1F3 U+1F1EC",
+        "image": "/images/countries/NG.svg"
+    },
+    "NI": {
+        "name": "Nicaragua",
+        "emoji": "🇳🇮",
+        "unicode": "U+1F1F3 U+1F1EE",
+        "image": "/images/countries/NI.svg"
+    },
+    "NL": {
+        "name": "Netherlands",
+        "emoji": "🇳🇱",
+        "unicode": "U+1F1F3 U+1F1F1",
+        "image": "/images/countries/NL.svg"
+    },
+    "NO": {
+        "name": "Norway",
+        "emoji": "🇳🇴",
+        "unicode": "U+1F1F3 U+1F1F4",
+        "image": "/images/countries/NO.svg"
+    },
+    "NP": {
+        "name": "Nepal",
+        "emoji": "🇳🇵",
+        "unicode": "U+1F1F3 U+1F1F5",
+        "image": "/images/countries/NP.svg"
+    },
+    "NR": {
+        "name": "Nauru",
+        "emoji": "🇳🇷",
+        "unicode": "U+1F1F3 U+1F1F7",
+        "image": "/images/countries/NR.svg"
+    },
+    "NU": {
+        "name": "Niue",
+        "emoji": "🇳🇺",
+        "unicode": "U+1F1F3 U+1F1FA",
+        "image": "/images/countries/NU.svg"
+    },
+    "NZ": {
+        "name": "New Zealand",
+        "emoji": "🇳🇿",
+        "unicode": "U+1F1F3 U+1F1FF",
+        "image": "/images/countries/NZ.svg"
+    },
+    "OM": {
+        "name": "Oman",
+        "emoji": "🇴🇲",
+        "unicode": "U+1F1F4 U+1F1F2",
+        "image": "/images/countries/OM.svg"
+    },
+    "PA": {
+        "name": "Panama",
+        "emoji": "🇵🇦",
+        "unicode": "U+1F1F5 U+1F1E6",
+        "image": "/images/countries/PA.svg"
+    },
+    "PE": {
+        "name": "Peru",
+        "emoji": "🇵🇪",
+        "unicode": "U+1F1F5 U+1F1EA",
+        "image": "/images/countries/PE.svg"
+    },
+    "PF": {
+        "name": "French Polynesia",
+        "emoji": "🇵🇫",
+        "unicode": "U+1F1F5 U+1F1EB",
+        "image": "/images/countries/PF.svg"
+    },
+    "PG": {
+        "name": "Papua New Guinea",
+        "emoji": "🇵🇬",
+        "unicode": "U+1F1F5 U+1F1EC",
+        "image": "/images/countries/PG.svg"
+    },
+    "PH": {
+        "name": "Philippines",
+        "emoji": "🇵🇭",
+        "unicode": "U+1F1F5 U+1F1ED",
+        "image": "/images/countries/PH.svg"
+    },
+    "PK": {
+        "name": "Pakistan",
+        "emoji": "🇵🇰",
+        "unicode": "U+1F1F5 U+1F1F0",
+        "image": "/images/countries/PK.svg"
+    },
+    "PL": {
+        "name": "Poland",
+        "emoji": "🇵🇱",
+        "unicode": "U+1F1F5 U+1F1F1",
+        "image": "/images/countries/PL.svg"
+    },
+    "PM": {
+        "name": "St. Pierre & Miquelon",
+        "emoji": "🇵🇲",
+        "unicode": "U+1F1F5 U+1F1F2",
+        "image": "/images/countries/PM.svg"
+    },
+    "PN": {
+        "name": "Pitcairn Islands",
+        "emoji": "🇵🇳",
+        "unicode": "U+1F1F5 U+1F1F3",
+        "image": "/images/countries/PN.svg"
+    },
+    "PR": {
+        "name": "Puerto Rico",
+        "emoji": "🇵🇷",
+        "unicode": "U+1F1F5 U+1F1F7",
+        "image": "/images/countries/PR.svg"
+    },
+    "PS": {
+        "name": "Palestinian Territories",
+        "emoji": "🇵🇸",
+        "unicode": "U+1F1F5 U+1F1F8",
+        "image": "/images/countries/PS.svg"
+    },
+    "PT": {
+        "name": "Portugal",
+        "emoji": "🇵🇹",
+        "unicode": "U+1F1F5 U+1F1F9",
+        "image": "/images/countries/PT.svg"
+    },
+    "PW": {
+        "name": "Palau",
+        "emoji": "🇵🇼",
+        "unicode": "U+1F1F5 U+1F1FC",
+        "image": "/images/countries/PW.svg"
+    },
+    "PY": {
+        "name": "Paraguay",
+        "emoji": "🇵🇾",
+        "unicode": "U+1F1F5 U+1F1FE",
+        "image": "/images/countries/PY.svg"
+    },
+    "QA": {
+        "name": "Qatar",
+        "emoji": "🇶🇦",
+        "unicode": "U+1F1F6 U+1F1E6",
+        "image": "/images/countries/QA.svg"
+    },
+    "RE": {
+        "name": "Réunion",
+        "emoji": "🇷🇪",
+        "unicode": "U+1F1F7 U+1F1EA",
+        "image": "/images/countries/RE.svg"
+    },
+    "RO": {
+        "name": "Romania",
+        "emoji": "🇷🇴",
+        "unicode": "U+1F1F7 U+1F1F4",
+        "image": "/images/countries/RO.svg"
+    },
+    "RS": {
+        "name": "Serbia",
+        "emoji": "🇷🇸",
+        "unicode": "U+1F1F7 U+1F1F8",
+        "image": "/images/countries/RS.svg"
+    },
+    "RU": {
+        "name": "Russia",
+        "emoji": "🇷🇺",
+        "unicode": "U+1F1F7 U+1F1FA",
+        "image": "/images/countries/RU.svg"
+    },
+    "RW": {
+        "name": "Rwanda",
+        "emoji": "🇷🇼",
+        "unicode": "U+1F1F7 U+1F1FC",
+        "image": "/images/countries/RW.svg"
+    },
+    "SA": {
+        "name": "Saudi Arabia",
+        "emoji": "🇸🇦",
+        "unicode": "U+1F1F8 U+1F1E6",
+        "image": "/images/countries/SA.svg"
+    },
+    "SB": {
+        "name": "Solomon Islands",
+        "emoji": "🇸🇧",
+        "unicode": "U+1F1F8 U+1F1E7",
+        "image": "/images/countries/SB.svg"
+    },
+    "SC": {
+        "name": "Seychelles",
+        "emoji": "🇸🇨",
+        "unicode": "U+1F1F8 U+1F1E8",
+        "image": "/images/countries/SC.svg"
+    },
+    "SD": {
+        "name": "Sudan",
+        "emoji": "🇸🇩",
+        "unicode": "U+1F1F8 U+1F1E9",
+        "image": "/images/countries/SD.svg"
+    },
+    "SE": {
+        "name": "Sweden",
+        "emoji": "🇸🇪",
+        "unicode": "U+1F1F8 U+1F1EA",
+        "image": "/images/countries/SE.svg"
+    },
+    "SG": {
+        "name": "Singapore",
+        "emoji": "🇸🇬",
+        "unicode": "U+1F1F8 U+1F1EC",
+        "image": "/images/countries/SG.svg"
+    },
+    "SH": {
+        "name": "St. Helena",
+        "emoji": "🇸🇭",
+        "unicode": "U+1F1F8 U+1F1ED",
+        "image": "/images/countries/SH.svg"
+    },
+    "SI": {
+        "name": "Slovenia",
+        "emoji": "🇸🇮",
+        "unicode": "U+1F1F8 U+1F1EE",
+        "image": "/images/countries/SI.svg"
+    },
+    "SJ": {
+        "name": "Svalbard & Jan Mayen",
+        "emoji": "🇸🇯",
+        "unicode": "U+1F1F8 U+1F1EF",
+        "image": "/images/countries/SJ.svg"
+    },
+    "SK": {
+        "name": "Slovakia",
+        "emoji": "🇸🇰",
+        "unicode": "U+1F1F8 U+1F1F0",
+        "image": "/images/countries/SK.svg"
+    },
+    "SL": {
+        "name": "Sierra Leone",
+        "emoji": "🇸🇱",
+        "unicode": "U+1F1F8 U+1F1F1",
+        "image": "/images/countries/SL.svg"
+    },
+    "SM": {
+        "name": "San Marino",
+        "emoji": "🇸🇲",
+        "unicode": "U+1F1F8 U+1F1F2",
+        "image": "/images/countries/SM.svg"
+    },
+    "SN": {
+        "name": "Senegal",
+        "emoji": "🇸🇳",
+        "unicode": "U+1F1F8 U+1F1F3",
+        "image": "/images/countries/SN.svg"
+    },
+    "SO": {
+        "name": "Somalia",
+        "emoji": "🇸🇴",
+        "unicode": "U+1F1F8 U+1F1F4",
+        "image": "/images/countries/SO.svg"
+    },
+    "SR": {
+        "name": "Suriname",
+        "emoji": "🇸🇷",
+        "unicode": "U+1F1F8 U+1F1F7",
+        "image": "/images/countries/SR.svg"
+    },
+    "SS": {
+        "name": "South Sudan",
+        "emoji": "🇸🇸",
+        "unicode": "U+1F1F8 U+1F1F8",
+        "image": "/images/countries/SS.svg"
+    },
+    "ST": {
+        "name": "São Tomé & Príncipe",
+        "emoji": "🇸🇹",
+        "unicode": "U+1F1F8 U+1F1F9",
+        "image": "/images/countries/ST.svg"
+    },
+    "SV": {
+        "name": "El Salvador",
+        "emoji": "🇸🇻",
+        "unicode": "U+1F1F8 U+1F1FB",
+        "image": "/images/countries/SV.svg"
+    },
+    "SX": {
+        "name": "Sint Maarten",
+        "emoji": "🇸🇽",
+        "unicode": "U+1F1F8 U+1F1FD",
+        "image": "/images/countries/SX.svg"
+    },
+    "SY": {
+        "name": "Syria",
+        "emoji": "🇸🇾",
+        "unicode": "U+1F1F8 U+1F1FE",
+        "image": "/images/countries/SY.svg"
+    },
+    "SZ": {
+        "name": "Eswatini",
+        "emoji": "🇸🇿",
+        "unicode": "U+1F1F8 U+1F1FF",
+        "image": "/images/countries/SZ.svg"
+    },
+    "TA": {
+        "name": "Tristan da Cunha",
+        "emoji": "🇹🇦",
+        "unicode": "U+1F1F9 U+1F1E6",
+        "image": "/images/countries/TA.svg"
+    },
+    "TC": {
+        "name": "Turks & Caicos Islands",
+        "emoji": "🇹🇨",
+        "unicode": "U+1F1F9 U+1F1E8",
+        "image": "/images/countries/TC.svg"
+    },
+    "TD": {
+        "name": "Chad",
+        "emoji": "🇹🇩",
+        "unicode": "U+1F1F9 U+1F1E9",
+        "image": "/images/countries/TD.svg"
+    },
+    "TF": {
+        "name": "French Southern Territories",
+        "emoji": "🇹🇫",
+        "unicode": "U+1F1F9 U+1F1EB",
+        "image": "/images/countries/TF.svg"
+    },
+    "TG": {
+        "name": "Togo",
+        "emoji": "🇹🇬",
+        "unicode": "U+1F1F9 U+1F1EC",
+        "image": "/images/countries/TG.svg"
+    },
+    "TH": {
+        "name": "Thailand",
+        "emoji": "🇹🇭",
+        "unicode": "U+1F1F9 U+1F1ED",
+        "image": "/images/countries/TH.svg"
+    },
+    "TJ": {
+        "name": "Tajikistan",
+        "emoji": "🇹🇯",
+        "unicode": "U+1F1F9 U+1F1EF",
+        "image": "/images/countries/TJ.svg"
+    },
+    "TK": {
+        "name": "Tokelau",
+        "emoji": "🇹🇰",
+        "unicode": "U+1F1F9 U+1F1F0",
+        "image": "/images/countries/TK.svg"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "emoji": "🇹🇱",
+        "unicode": "U+1F1F9 U+1F1F1",
+        "image": "/images/countries/TL.svg"
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "emoji": "🇹🇲",
+        "unicode": "U+1F1F9 U+1F1F2",
+        "image": "/images/countries/TM.svg"
+    },
+    "TN": {
+        "name": "Tunisia",
+        "emoji": "🇹🇳",
+        "unicode": "U+1F1F9 U+1F1F3",
+        "image": "/images/countries/TN.svg"
+    },
+    "TO": {
+        "name": "Tonga",
+        "emoji": "🇹🇴",
+        "unicode": "U+1F1F9 U+1F1F4",
+        "image": "/images/countries/TO.svg"
+    },
+    "TR": {
+        "name": "Turkey",
+        "emoji": "🇹🇷",
+        "unicode": "U+1F1F9 U+1F1F7",
+        "image": "/images/countries/TR.svg"
+    },
+    "TT": {
+        "name": "Trinidad & Tobago",
+        "emoji": "🇹🇹",
+        "unicode": "U+1F1F9 U+1F1F9",
+        "image": "/images/countries/TT.svg"
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "emoji": "🇹🇻",
+        "unicode": "U+1F1F9 U+1F1FB",
+        "image": "/images/countries/TV.svg"
+    },
+    "TW": {
+        "name": "Taiwan",
+        "emoji": "🇹🇼",
+        "unicode": "U+1F1F9 U+1F1FC",
+        "image": "/images/countries/TW.svg"
+    },
+    "TZ": {
+        "name": "Tanzania",
+        "emoji": "🇹🇿",
+        "unicode": "U+1F1F9 U+1F1FF",
+        "image": "/images/countries/TZ.svg"
+    },
+    "UA": {
+        "name": "Ukraine",
+        "emoji": "🇺🇦",
+        "unicode": "U+1F1FA U+1F1E6",
+        "image": "/images/countries/UA.svg"
+    },
+    "UG": {
+        "name": "Uganda",
+        "emoji": "🇺🇬",
+        "unicode": "U+1F1FA U+1F1EC",
+        "image": "/images/countries/UG.svg"
+    },
+    "UM": {
+        "name": "U.S. Outlying Islands",
+        "emoji": "🇺🇲",
+        "unicode": "U+1F1FA U+1F1F2",
+        "image": "/images/countries/UM.svg"
+    },
+    "UN": {
+        "name": "United Nations",
+        "emoji": "🇺🇳",
+        "unicode": "U+1F1FA U+1F1F3",
+        "image": "/images/countries/UN.svg"
+    },
+    "US": {
+        "name": "United States",
+        "emoji": "🇺🇸",
+        "unicode": "U+1F1FA U+1F1F8",
+        "image": "/images/countries/US.svg"
+    },
+    "UY": {
+        "name": "Uruguay",
+        "emoji": "🇺🇾",
+        "unicode": "U+1F1FA U+1F1FE",
+        "image": "/images/countries/UY.svg"
+    },
+    "UZ": {
+        "name": "Uzbekistan",
+        "emoji": "🇺🇿",
+        "unicode": "U+1F1FA U+1F1FF",
+        "image": "/images/countries/UZ.svg"
+    },
+    "VA": {
+        "name": "Vatican City",
+        "emoji": "🇻🇦",
+        "unicode": "U+1F1FB U+1F1E6",
+        "image": "/images/countries/VA.svg"
+    },
+    "VC": {
+        "name": "St. Vincent & Grenadines",
+        "emoji": "🇻🇨",
+        "unicode": "U+1F1FB U+1F1E8",
+        "image": "/images/countries/VC.svg"
+    },
+    "VE": {
+        "name": "Venezuela",
+        "emoji": "🇻🇪",
+        "unicode": "U+1F1FB U+1F1EA",
+        "image": "/images/countries/VE.svg"
+    },
+    "VG": {
+        "name": "British Virgin Islands",
+        "emoji": "🇻🇬",
+        "unicode": "U+1F1FB U+1F1EC",
+        "image": "/images/countries/VG.svg"
+    },
+    "VI": {
+        "name": "U.S. Virgin Islands",
+        "emoji": "🇻🇮",
+        "unicode": "U+1F1FB U+1F1EE",
+        "image": "/images/countries/VI.svg"
+    },
+    "VN": {
+        "name": "Vietnam",
+        "emoji": "🇻🇳",
+        "unicode": "U+1F1FB U+1F1F3",
+        "image": "/images/countries/VN.svg"
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "emoji": "🇻🇺",
+        "unicode": "U+1F1FB U+1F1FA",
+        "image": "/images/countries/VU.svg"
+    },
+    "WF": {
+        "name": "Wallis & Futuna",
+        "emoji": "🇼🇫",
+        "unicode": "U+1F1FC U+1F1EB",
+        "image": "/images/countries/WF.svg"
+    },
+    "WS": {
+        "name": "Samoa",
+        "emoji": "🇼🇸",
+        "unicode": "U+1F1FC U+1F1F8",
+        "image": "/images/countries/WS.svg"
+    },
+    "XK": {
+        "name": "Kosovo",
+        "emoji": "🇽🇰",
+        "unicode": "U+1F1FD U+1F1F0",
+        "image": "/images/countries/XK.svg"
+    },
+    "YE": {
+        "name": "Yemen",
+        "emoji": "🇾🇪",
+        "unicode": "U+1F1FE U+1F1EA",
+        "image": "/images/countries/YE.svg"
+    },
+    "YT": {
+        "name": "Mayotte",
+        "emoji": "🇾🇹",
+        "unicode": "U+1F1FE U+1F1F9",
+        "image": "/images/countries/YT.svg"
+    },
+    "ZA": {
+        "name": "South Africa",
+        "emoji": "🇿🇦",
+        "unicode": "U+1F1FF U+1F1E6",
+        "image": "/images/countries/ZA.svg"
+    },
+    "ZM": {
+        "name": "Zambia",
+        "emoji": "🇿🇲",
+        "unicode": "U+1F1FF U+1F1F2",
+        "image": "/images/countries/ZM.svg"
+    },
+    "ZW": {
+        "name": "Zimbabwe",
+        "emoji": "🇿🇼",
+        "unicode": "U+1F1FF U+1F1FC",
+        "image": "/images/countries/ZW.svg"
+    },
+    "ENGLAND": {
+        "name": "England",
+        "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0065 U+E006E U+E0067 U+E007F",
+        "image": "/images/countries/ENGLAND.svg"
+    },
+    "SCOTLAND": {
+        "name": "Scotland",
+        "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0073 U+E0063 U+E0074 U+E007F",
+        "image": "/images/countries/SCOTLAND.svg"
+    },
+    "WALES": {
+        "name": "Wales",
+        "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+        "unicode": "U+1F3F4 U+E0067 U+E0062 U+E0077 U+E006C U+E0073 U+E007F",
+        "image": "/images/countries/WALES.svg"
+    }
+}

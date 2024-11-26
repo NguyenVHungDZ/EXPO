@@ -1,0 +1,18 @@
+{
+  "apps": [
+    {
+      "env": {
+        "PORT": "4568",
+        "ROOT_URL": "http://0.0.0.0/",
+	"VITE_API_BASE_URL": "https://api.vexpo.vn",
+	"RECAPTCHA_SITE_KEY": "0x4AAAAAAAQflndr8oIqC8KU",
+	"RECAPTCHA_SECRET_KEY": "0x4AAAAAAAQfliFB11yFI4IwLMQ3ZH7RHeI"
+      },
+      "instances": "1",
+      "exec_mode": "fork",
+      "name": "VEXPO-FE",
+      "script": "/home/fimo/Expo-FrontEnd/.output/server/index.mjs",
+      "watch": false
+    }
+  ]
+}
