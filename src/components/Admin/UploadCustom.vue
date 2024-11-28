@@ -1,4 +1,5 @@
 <script lang="ts" setup>
+import { defineProps } from 'vue'
 import type { UploadProps, UploadInstance, UploadRawFile } from 'element-plus'
 import { genFileId } from 'element-plus'
 import { UploadFilled } from '@element-plus/icons-vue'
@@ -30,7 +31,7 @@ const props = defineProps({
   },
 })
 
-const upload = ref<UploadInstance>()
+const upload = ref<UploadInstance | null>(null)
 // If file is not compressed before upload, show message
 const onBeforeChange: UploadProps['onChange'] = (rawFile: any) => {
   if (!rawFile.raw.type.includes('compressed')) {
@@ -42,12 +43,12 @@ const onBeforeChange: UploadProps['onChange'] = (rawFile: any) => {
 }
 
 // When file size exceeds limit, clear the file list and start uploading the new file
-const handleExceed: UploadProps['onExceed'] = (files) => {
-  if (props.limit === 1) {
-    upload.value!.clearFiles()
+const handleExceed: UploadProps['onExceed'] = (files: File[]) => {
+  if (props.limit === 1 && upload.value) {
+    upload.value.clearFiles()
     const file = files[0] as UploadRawFile
     file.uid = genFileId()
-    upload.value!.handleStart(file)
+    upload.value.handleStart(file)
   }
 }
 

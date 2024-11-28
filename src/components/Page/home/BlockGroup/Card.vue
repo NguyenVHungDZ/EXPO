@@ -1,4 +1,5 @@
 <script lang="ts" setup>
+import { defineProps } from 'vue'
 import useApi from '~/composables/request/useApi'
 import type { IRes } from '@/interfaces/res_type'
 import type { IBlock } from '@/interfaces/block'
@@ -18,6 +19,7 @@ const data = ref<IBlock[]>([])
 const activeNames = ref([])
 const imageUrl = ref('')
 const loading = ref(true)
+// Get image
 const getImage = async (url: string) => {
   try {
     const imageRes = await getFile(url)
@@ -36,7 +38,7 @@ const fetchData = async () => {
     const res = (await getAll({
       limit: 4,
       'sort[created_at]': 'desc',
-      language: locale.value,
+      language: locale,
       'filter[blockGroup_id]': blockGroupData.value._id,
     })) as IRes
     data.value = res.data
